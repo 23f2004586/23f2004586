@@ -12,10 +12,6 @@ Hi, I'm Sumit G Jha, a dual-degree undergraduate student pursuing a Bachelor of 
 ![](https://nirzak-streak-stats.vercel.app/?user=23f2004586&theme=slateorange&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=23f2004586&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=23f2004586&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=23f2004586&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
