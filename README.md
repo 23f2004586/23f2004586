@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I'm Sumit G Jha, a dual-degree undergraduate student pursuing a Bachelor of Science in Data Science from IIT Madras and a Bachelor of Technology in Computer Science from UTU.​<br>My current education includes enrollment in IIT Madras's BS program in Data Science alongside a BTech in Computer Science at UTU, with coursework focused on AI/ML, databases, and software engineering.​<br>As an active student developer, I specialize in full-stack development, machine learning, and competitive programming, highlighting these pursuits in tech-heavy disciplines.<br><br>
+*   👋 **Hi, I'm Sumit G Jha**, dual-degree undergrad at IIT Madras (BS Data Science) & UTU (BTech CS with AIML specialization).​
+*   📚 **Coursework**: AI/ML,databases, software engineering.
+*   💻 **Specialize in**: full-stack development, Machine learning, competitive programming.​
+*   📍 **Surat, Gujarat** | 🔗 [LinkedIn](https://in.linkedin.com/in/sumigjha)<br><br>
 
 
 ## 🌐 Socials:
